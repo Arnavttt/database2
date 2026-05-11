@@ -1,0 +1,10 @@
+GitHub upload steps:
+
+1. Unzip five-a-plus-github-ready-expanded.zip.
+2. Open the unzipped folder.
+3. Select all contents inside the folder: index.html, assets, courses, units, original_uploads, README.md, .nojekyll, etc.
+4. Drag those contents into your GitHub repo root.
+5. Commit changes.
+6. Go to Settings > Pages > Deploy from a branch > main > /root > Save.
+
+Do not upload the parent folder itself unless you want the site nested one level deeper.
